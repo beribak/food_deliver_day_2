@@ -1,0 +1,4 @@
+id,username,password,role
+1,danko,secret,driver
+2,dominic,secret,driver
+3,fernando,manager,manager
